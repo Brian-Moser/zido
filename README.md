@@ -1,4 +1,4 @@
-# Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution
+# When 512x512 Is Not Enough: Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution
 
 This work and repo builds upon [SeeSR](https://github.com/cswry/SeeSR).
 
